@@ -9,7 +9,7 @@ from retrieval import get_retriever  # <-- import the retriever from retrieval.p
 warnings.filterwarnings("ignore")
 
 # ========== SETTINGS ==========
-GOOGLE_API_KEY = "AIzaSyCbAphc7pmbA2Oo44Um9479jaJciALPUdQ"
+GOOGLE_API_KEY = "YOUR API KEY"
 MODEL = "models/gemini-1.5-flash"
 # ===============================
 

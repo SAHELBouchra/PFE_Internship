@@ -3,7 +3,7 @@ from langchain_chroma import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 # ========== SETTINGS ==========
-GOOGLE_API_KEY = "AIzaSyCbAphc7pmbA2Oo44Um9479jaJciALPUdQ"
+GOOGLE_API_KEY = "YOUR API KEY"
 EMBEDDINGS_MODEL = "models/embedding-001"
 CHROMA_DB_DIR = "chroma_db"
 # ===============================
